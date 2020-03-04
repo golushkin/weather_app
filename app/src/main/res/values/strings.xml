@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">weather_app</string>
+    <string name="API"></string>
 </resources>
